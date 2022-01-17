@@ -6,7 +6,7 @@ access that I do.
 
 [My Github Page](https://jasontrue.github.io/) has more narrative, a resume and so on.
 
-I'm occasionally available for consulting on projects. Right now I'm probably most useful if you have period or short-term needs related to:
+I'm occasionally available for consulting on projects. Right now I'm probably most useful if you have periodic or short-term needs related to:
 
 * Elixir OTP applications
 * Phoenix/Liveview Applications
