@@ -12,6 +12,7 @@ I'm occasionally available for consulting on projects. Right now I'm probably mo
 * Phoenix/Liveview Applications
 * Building out AWS Infrastructure
 * Industrial PLC Protocols (Keyence, Melsec, ModbusTCP, EthernetIP/CIP)
+* I'm sorta competent dealing with industrial PoE cameras, as well as video and audio streaming pipelines
 
 I've got a lot of experience with web applications and internationalization. I've worked in both popular and esoteric technology stacks. My
 work in recent years is very customer-facing and I like projects where I have direct customer impact and a fair amount of technical autonomy.
