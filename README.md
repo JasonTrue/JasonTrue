@@ -12,6 +12,9 @@ custom reporting, plant floor audio communications solutions, video streaming an
 But we're a scrappy team with a diverse range of experiences and we've got the ability to delivery consumer- and line-of-business web and mobile applications,
 backend web services, data pipelines, video and audio solutions, and more.
 
+Want to migrate some/all of your tech stack from Rails or Python to Elixir? We can do that. Need to integrate live production data with ERP systems? We can do that.
+Need mobile web development in Flutter/Dart? We can do that.
+
 I'm managing our team while maintaining some software development responsibilities, but here are some of the things that I work on:
 * Elixir OTP applications
 * Phoenix/Liveview Applications
