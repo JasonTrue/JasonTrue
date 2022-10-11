@@ -6,13 +6,19 @@ access that I do.
 
 [My Github Page](https://jasontrue.github.io/) has more narrative, a resume and so on.
 
-I'm occasionally available for consulting on projects. Right now I'm probably most useful if you have periodic or short-term needs related to:
+My team is available for consulting projects. Our sweet spot is in extending our product to support continuous and discrete manufacturing applications
+(factory telemetry data on any device, providing observability and operator guidance related to manufacturing setup and change processes, alerting systems,
+custom reporting, plant floor audio communications solutions, video streaming and defect detection).
+But we're a scrappy team with a diverse range of experiences and we've got the ability to delivery consumer- and line-of-business web and mobile applications,
+backend web services, data pipelines, video and audio solutions, and more.
 
+I'm managing our team while maintaining some software development responsibilities, but here are some of the things that I work on:
 * Elixir OTP applications
 * Phoenix/Liveview Applications
 * Building out AWS Infrastructure
 * Industrial PLC Protocols (Keyence, Melsec, ModbusTCP, EthernetIP/CIP)
-* I'm sorta competent dealing with industrial PoE cameras, as well as video and audio streaming pipelines
+* Industrial PoE camera frame and video capturing (primarily using LucidVision hardware so far)
+* Building out audio and video pipelines for analysis and streaming
 
 I've got a lot of experience with web applications and internationalization. I've worked in both popular and esoteric technology stacks. My
 work in recent years is very customer-facing and I like projects where I have direct customer impact and a fair amount of technical autonomy.
