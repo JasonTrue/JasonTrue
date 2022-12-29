@@ -6,6 +6,9 @@ access that I do.
 
 [My Github Page](https://jasontrue.github.io/) has more narrative, a resume and so on.
 
+### Build With IML
+[IML Consulting](https://www.buildwithiml.com/)
+
 My team is available for consulting projects. Our sweet spot is in extending our product to support continuous and discrete manufacturing applications
 (factory telemetry data on any device, providing observability and operator guidance related to manufacturing setup and change processes, alerting systems,
 custom reporting, plant floor audio communications solutions, video streaming and defect detection).
