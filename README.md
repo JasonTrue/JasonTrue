@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-For most of the last 5 years, I've been working on an industrial telemetry system for factory lines at [IndustrialML](https://www.industrialml.com/). I mainly do this work in Elixir, and so far most
+For most of the last 5 years, I've been working on an industrial telemetry system for factory lines at [IndustrialML](https://www.industrialml.com/). I mainly did this work in Elixir, and most
 of the code is proprietary, so you'll mainly see quick & dirty hacks and experiments here unless you have the same private repository
 access that I do.
 
